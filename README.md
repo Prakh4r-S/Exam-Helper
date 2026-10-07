@@ -83,8 +83,8 @@ An example use case (I have used notes for my Mechanical Engineering Course):
 ![Notes Upload Interface]<img width="1440" height="933" alt="Screenshot 2026-10-07 at 1 45 04 PM" src="https://github.com/user-attachments/assets/2d84b892-b380-4dd8-a4b1-c60ae4b3f53c" />
 
 
-![Answer and Summary](![Uploading Screenshot 2026-10-07 at 1.45.35 PM.png…]()
-)
+![Answer and Summary]![Uploading Screenshot 2026-10-07 at 1.45.35 PM.png…]()
+
 
 ![Answers and Summary](images/image2.png)
 
