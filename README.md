@@ -1,4 +1,4 @@
-<img width="773" height="662" alt="Screenshot 2026-10-07 at 1 45 35 PM" src="https://github.com/user-attachments/assets/45bd7568-402f-423e-ac4b-225486598abe" /><img width="1440" height="933" alt="Screenshot 2026-10-07 at 1 45 04 PM" src="https://github.com/user-attachments/assets/42ab9f5a-81d1-4fe5-8b4e-b07e5f2837d8" /># 🧠 Exam Helper
+# 🧠 Exam Helper
 
 > A powerful exam preparation assistant that allows students to upload their notes in the form of **PDF**, **DOCX**, or **PPTX** documents, submit multiple previous year questions in a single batch, and receive **context-aware, accurate answers** and a **list of important topics** using Retrieval-Augmented Generation (RAG) with LLMs.
 
