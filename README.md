@@ -78,13 +78,12 @@ flask run
 
 ## 📸 Working Images
 
-An example use case (I have used notes for my Mechanical Engineering Course):
+An example use case, using notes from a Nuclear Physics course:
 
-![Notes Upload Interface]<img width="1440" height="933" alt="Screenshot 2026-10-07 at 1 45 04 PM" src="https://github.com/user-attachments/assets/2d84b892-b380-4dd8-a4b1-c60ae4b3f53c" />
+**Notes upload interface**
 
+<img width="1440" alt="Notes upload interface" src="https://github.com/user-attachments/assets/2d84b892-b380-4dd8-a4b1-c60ae4b3f53c" />
 
-![Answer and Summary]![Uploading Screenshot 2026-10-07 at 1.45.35 PM.png…]()
+**Answers and important-topics summary**
 
-
-![Answers and Summary](images/image2.png)
-
+<img width="773" alt="Answers and summary" src="https://github.com/user-attachments/assets/45bd7568-402f-423e-ac4b-225486598abe" />
